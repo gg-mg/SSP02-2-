@@ -19,7 +19,7 @@
     <footer>
         <hr>
         Dislaimer: Oklahoma City Community College does not necessarily
-        endorse the content or the respective links on this web page.
+        endorse the content or the respective links on this web page.<br>
      <?php include "PHP/include_footer.php";?>
     </footer>
     
