@@ -8,9 +8,9 @@ echo
 echo
 "
  <tr>
-    <th>Day</th>
-    <th>Details</th>
-    <th>Time</th>
+    <th>Day of Week</th>
+    <th>Task</th>
+    <th>Time (hrs)</th>
 </tr>
 ";
 for ($counter = 1;$counter < 8;$counter++) {
